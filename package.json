@@ -1,0 +1,19 @@
+{
+  "name": "tw-voucher-checker",
+  "version": "1.0.0",
+  "description": "เช็คลิ้งอั่งเปา (client-side)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/chanios/tw-voucher-checker.git"
+  },
+  "author": "chanios",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chanios/tw-voucher-checker/issues"
+  },
+  "homepage": "https://github.com/chanios/tw-voucher-checker#readme"
+}
